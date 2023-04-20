@@ -1,0 +1,1 @@
+export { smallestNumber } from "./smallestNumber";
